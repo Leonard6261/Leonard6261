@@ -1,6 +1,6 @@
 //This program is to use the evaluator by
 //initializing the glbal evironment and
-//start the driver loop, with an sample
+//start the driver loop, with a sample
 //run of 'append' function.
 
 function evaluate(component, env) {
